@@ -1,0 +1,144 @@
+@font-face{
+    font-family: Vazir;
+    src: url(font/Vazir.eot);
+    src: url(font/Vazir.eot?#iefix) format('embedded-opentype'),
+    url(font/Vazir.woff) format('woff'),
+    url(font/Vazir.ttf) format('truetype');
+    font-weight: normal;
+}
+body{
+    font-family: Vazir;
+    background-color: #ededed;
+}
+body a{
+
+    text-decoration: none;
+}
+body a:hover{
+    color: red;
+}
+nav{
+    border-radius: 0px;
+    background-color:  #7952B3;
+}
+.navbar-brand{
+    margin: 0px 15px !important;
+}
+.dropdown-menu{
+    background-color: rgba(73, 100, 73, 0.603);
+}
+.dropdown-item {
+    border: 0px !important;    
+    border-radius: 5px;
+    padding: 0px !important;
+    margin: 5px;
+    color: #FFE484;
+}
+.dropdown-item:hover{
+    background-color: #554b26;
+    color: #000;
+}
+.img-fluid{
+    margin:  45px 5px 25px 5px;
+    border-radius: 10px;
+}
+#img{
+    padding: 20px;
+}
+#widget:hover{
+    margin:  45px 5px 25px 5px;
+    border: 1px solid dodgerblue;
+    border-radius: 15px;
+}
+#tabligh{
+    padding: 5px;
+    border: 1px solid dodgerblue;
+    border-radius: 10px;
+}
+#header a{
+    border: 1px solid #FFE484;    
+    border-radius: 5px;
+    padding: 5px;
+    margin: 2px;
+    color: #FFE484;
+}
+.d-flex{
+    margin: 0px;
+}
+#header a:hover{
+    background-color: #FFE484;
+    color: #000;
+}
+#downloadBoxText{
+    padding: 13px;
+}
+#downloadBox{
+    padding: 30px;
+   
+}
+#dlLink{
+    padding: 6px;
+}
+.accordion-button{
+    border:1px solid #7952B3 !important;
+    border-radius: 3px !important; 
+}
+.navbar-toggler:hover{
+    background-color: burlywood;
+}
+
+.list-group span{
+    float: left;
+}
+.list-group {
+    box-shadow: 5px 10px 18px #888888; 
+}
+#footer{
+    background-color: white;
+    color: #5D5D5D;
+    box-shadow: 5px 10px 18px #888888; 
+    border-radius: 10px;
+}
+#liFooter{
+    display: inline-block;
+    text-decoration: none;
+}
+#contectV{
+    color: #5D5D5D;
+    box-shadow: 5px 10px 18px #888888; 
+    border-radius: 10px;
+}
+#accordion-body{
+    background-color: #FFC402;
+    border-radius: 5px;
+}
+.bi-instagram{
+    font-size: 2rem;
+     color: tomato !important;
+     padding:10px;
+}
+.bi-instagram:hover{
+    color: rgb(238, 15, 15) !important;
+}
+.bi-telegram{
+    font-size: 2rem;
+     color: rgb(22, 102, 221) !important;
+     padding:10px;
+}
+.bi-telegram:hover{
+    color: blue !important;
+}
+
+.d-flex button:hover{
+    background-color: #FFE484;
+}
+#ma{
+    color:#2A9FB3;
+    }
+#ma:hover{
+color: red;
+cursor: pointer
+}
+.bi{
+    color: rgb(14, 155, 14);
+}
